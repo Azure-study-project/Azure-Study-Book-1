@@ -1,4 +1,13 @@
 = 著者紹介
 
-==== 第1章 ひつじ / @mhidaka
-ひつじだよ〜
+==== Swim / @yuswim
+Yuです
+
+==== Maru / @maruryu201
+Maru です。
+
+==== IF / @korokuri
+IF です。
+
+==== EA / @majan
+EA です。
