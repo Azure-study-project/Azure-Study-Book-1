@@ -2,9 +2,14 @@ PREDEF:
   - preface.re
 
 CHAPS:
-  - article.re
+  - application-info.re
+  - azure-product.re
+  - develop-application.re
+  - develop-front.re
+  - conclusion.re
 
 APPENDIX:
 
 POSTDEF:
+  - fin.re
   - contributors.re
